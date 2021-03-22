@@ -8,4 +8,4 @@ The data contains the following columns:
  * Avg. Area Number of Bedrooms': Avg Number of Bedrooms for Houses in same city
  * Area Population': Population of city house is located in
  * Price': Price that the house sold at
- * Address': Address for the house
+ * Address': Address for the house.
